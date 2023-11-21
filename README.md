@@ -9,8 +9,8 @@
 
 
 ## Table of Contents
-* [Technologies Used]
-* [Python]
+* [Technologies Used](#Technologies Used)
+* [Python](#Python)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
