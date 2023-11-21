@@ -9,7 +9,7 @@
 
 
 ## Table of Contents
-* [Technologies Used: ]
+* [Technologies Used]
 * [Python]
 * [Acknowledgements](#acknowledgements)
 
